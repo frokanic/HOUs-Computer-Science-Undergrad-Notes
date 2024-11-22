@@ -2,10 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&color=5D5FEF&center=true&vCenter=true&width=1000&height=50&lines=Υλικό+Μαθημάτων+για+Ψευδογλώσσα+και+C+📘;" alt="Υλικό Μαθημάτων">
 </h1>
 
-<p align="center">
+<h2 align="center">
     Καλώς ήρθατε στο αποθετήριο αυτό! 🎓 Εδώ φιλοξενούνται σημειώσεις και υλικό για την <strong>Ψευδογλώσσα</strong> και τη <strong>Γλώσσα C</strong>, 
-    όπως διδάσκονται στο πρώτο έτος του <a href="https://www.eap.gr/">Ελληνικού Ανοικτού Πανεπιστημίου (ΕΑΠ)</a>.
-</p>
+    όπως διδάσκονται στο πρώτο έτος του <a href="https://www.eap.gr/"><br>Ελληνικού Ανοικτού Πανεπιστημίου (ΕΑΠ)</a>.
+</h2>
+
+<h3><u> Για την εγκατάσταση του Compiler, ακολουθήστε τις οδηγίες που αναφέρονται στο <a href="https://github.com/AchilleasMakris/vscode-pseudocode-extension/wiki">Wiki</a> του GreekPseudoCode project. </u></h3>
 
 <h2>📂 Περιεχόμενα</h2>
 <ul>
