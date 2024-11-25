@@ -45,7 +45,7 @@
     Ευχαριστούμε όσους έχουν συνεισφέρει μέχρι τώρα!
 </p>
 <a href="https://github.com/frokanic/HOUs-Computer-Science-Undergrad-Notes/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=frokanic/HOUs-Computer-Science-Undergrad-Notes" alt="Contributors">
+  <img src="https://contrib.rocks/image?repo=frokanic/HOUs-Computer-Science-Undergrad-Notes" />
 </a>
 
 <h2>📜 Άδεια Χρήσης</h2>
