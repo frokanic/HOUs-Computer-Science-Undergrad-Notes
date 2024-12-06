@@ -49,6 +49,6 @@
 </a>
 
 <h2>📜 Άδεια Χρήσης</h2>
-<p>
-    Το υλικό διατίθεται με την άδεια <strong>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</strong>.
-</p>
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
